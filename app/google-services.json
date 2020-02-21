@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "664427572863",
+    "firebase_url": "https://fir-logregaddret.firebaseio.com",
+    "project_id": "fir-logregaddret",
+    "storage_bucket": "fir-logregaddret.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664427572863:android:f56f6cfecadafccc49194a",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloginregistrationdataindataretrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664427572863-3bei26srrq965lml701elhdsb6h2v47a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseloginregistrationdataindataretrive",
+            "certificate_hash": "897690aef16365bc4446b40aa27fc46a205ed085"
+          }
+        },
+        {
+          "client_id": "664427572863-halqklaqg1ll3oul4ln0upbqgrbkv3m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOZ_WjzWjkosgD9gsp9dN5CXMvFYVaO0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664427572863-halqklaqg1ll3oul4ln0upbqgrbkv3m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
